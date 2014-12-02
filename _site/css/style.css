@@ -221,3 +221,22 @@ footer {
     color:#444;
   }
 }
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 2em;
+}
+
+select {
+  width: 200px;
+}
+
+.overflow {
+  height: 200px;
+}
+
+#number-button {
+  font:12px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

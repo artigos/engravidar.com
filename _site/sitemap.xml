@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/2014/12/02/como-engravidar-rapidamente.html</loc>
+    <lastmod>2014-12-02T00:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/2014/12/01/como-saber-quando-esta-a-ovular.html</loc>
+    <lastmod>2014-12-01T00:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>/2014/08/25/engravidar.html</loc>
     <lastmod>2014-08-25T00:00:00+03:00</lastmod>
     <priority>0.8</priority>
@@ -32,25 +42,25 @@
   </url>
   <url>
     <loc>/404.html</loc>
-    <lastmod>2014-11-24T22:08:01+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/calculadora-da-ovulacao/</loc>
-    <lastmod>2014-11-24T22:08:01+02:00</lastmod>
+    <lastmod>2014-12-02T21:31:56+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2014-11-24T22:08:01+02:00</lastmod>
+    <lastmod>2014-12-02T21:31:56+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>/calculadora-da-ovulacao/</loc>
+    <lastmod>2014-12-02T21:31:56+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>/privacidade/</loc>
-    <lastmod>2014-11-24T22:08:01+02:00</lastmod>
+    <lastmod>2014-12-02T21:31:56+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

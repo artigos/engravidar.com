@@ -11,7 +11,12 @@
   <link rel="stylesheet" href="/css/pygments.css" />
   <link rel="icon" type="image/x-icon" href="/assets/favicon.png" />
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
   <script src="/js/modernizr.js"></script>
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+  <script type="text/javascript" src="/js/datepicker-pt.js"></script>
+  <script type="text/javascript" src="/js/ovulation.js"></script>
   <!--[if lt IE 9]>
   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -35,17 +40,79 @@
     <header>
   <h1><a href="/">Engravidar.com</a></h1>
   <p>Informações sobre engravidar</p>
-  
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- engravidar.com-responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1916739305935270"
+     data-ad-slot="8079810839"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 </header>
 
 
     <section>
       <p><a href="/calculadora-da-ovulacao">Calculadora da ovulação</a></p>
 
-      #Calculadora da Ovulação
+      <h1 id="calculadora-da-ovulao">Calculadora da Ovulação</h1>
 
-##
-      
+<p>A nossa calculadora a ajudará a engravidar.</p>
+
+<h3 id="qual-a-data-do-primeiro-dia-da-sua-ltima-menstruao">Qual a data do primeiro dia da sua última menstruação?</h3>
+
+<p>Data: <input type="text" id="datepicker" /></p>
+
+<h3 id="nmero-de-dias-do-seu-ciclo">Número de dias do seu ciclo</h3>
+
+<p>Se sabe que o seu ciclo é mais curto ou longo do que 28 dias, por favor selecione o número de dias abaixo.</p>
+
+<form action="#">
+ 
+  <fieldset>
+    <select name="number" id="number">
+      <option>20</option>
+      <option>21</option>
+      <option>22</option>
+      <option>23</option>
+      <option>24</option>
+      <option>25</option>
+      <option>26</option>
+      <option>27</option>
+      <option selected="selected">28</option>
+      <option>29</option>
+      <option>30</option>
+      <option>31</option>
+      <option>32</option>
+      <option>33</option>
+      <option>34</option>
+      <option>35</option>
+      <option>36</option>
+      <option>37</option>
+      <option>38</option>
+      <option>39</option>
+      <option>40</option>
+    </select>
+  </fieldset>
+ 
+</form>
+
+<p><input type="submit" value="Calcular" /></p>
+
+<p><span id="ovulation-calculator"></span></p>
+
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- engravidar.com-200x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-1916739305935270"
+     data-ad-slot="9556544033"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
       <hr/>
       <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style">
