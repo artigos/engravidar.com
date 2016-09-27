@@ -3,11 +3,11 @@ layout: default
 title: Maximizar a fertilidade
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Quando você está tentando engravidar, lembre-se de coisas simples que você deve fazer para engravidar e mantenha também em mente coisas importantes que não deve fazer.
 
-##O que fazer?
+## O que fazer?
 
 * __Tenha sexo regularmente__. Se você tem relações sexuais consistentemente duas ou três vezes por semana, é quase certo que você atinja um período fértil em algum momento. Para os casais saudáveis ​​que querem engravidar, não há tal coisa como muito sexo. Para muitos casais, isso pode ser tudo o que preciso.
 * __Tenha sexo uma vez por dia perto do momento da ovulação__. Relações sexuais diárias durante os dias que antecedem a ovulação podem aumentar as chances de conceção. Embora a concentração de espermatozoides do seu parceiro provavelmente cairá um pouco cada vez que tiver relações sexuais, a redução não é geralmente um problema para homens saudáveis​​.
@@ -16,7 +16,7 @@ Quando você está tentando engravidar, lembre-se de coisas simples que você de
 * __Tome suas vitaminas__. O ácido fólico desempenha um papel essencial no desenvolvimento de um bebê. Uma vitamina pré-natal diária ou um suplemento de ácido fólico começando alguns meses antes da conceção reduz significativamente o risco de espinha bífida e outros defeitos do tubo neural.
 
 
-##O que evitar?
+## O que evitar?
 
 * __Não fume__. O tabaco afeta o muco cervical, que pode impedir o esperma de alcançar o óvulo. Fumar pode também aumentar o risco de aborto e privar o seu bebê em desenvolvimento de oxigênio e nutrientes. Se você fuma, peça para o seu provedor de cuidados de saúde que ajude você a parar antes da conceção. Pelo amor de sua família, prometa parar de vez.
 * __Não beba álcool__. Geralmente, é melhor evitar o álcool se você está esperando engravidar - e o álcool está numa zona proibida, se você está grávida.

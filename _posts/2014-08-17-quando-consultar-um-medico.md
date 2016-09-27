@@ -3,7 +3,7 @@ layout: default
 title: Quando consultar um médico?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Com sexo desprotegido frequente a maioria dos casais saudáveis engravidam no prazo de um ano. Outros precisam de um pouco de ajuda.
 

@@ -3,7 +3,7 @@ layout: default
 title: Dieta saudável
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Mais fácil de falar do que de fazer, claro, mas ter uma dieta e estilo de vida saudável é muito importante se você quiser aumentar suas chances de engravidar rápido.
 

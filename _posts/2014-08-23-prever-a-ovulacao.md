@@ -3,7 +3,7 @@ layout: default
 title: Prever a ovulação
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A conceção se baseia numa série complexa de eventos. Todos os meses, os hormônios da sua glândula pituitária estimulam os ovários a liberar um óvulo, ou a ovular. Depois que o óvulo é liberado, ele viaja para uma das trompas de Falópio. Se você quiser engravidar, agora é a hora. Mas como você pode dizer quando você está ovulando? Para muitas mulheres, é como acertar um alvo em movimento - especialmente uma vez que vários fatores podem afetar o momento exato da ovulação, incluindo estresse e exercício físico excessivo.
 
